@@ -1,6 +1,6 @@
 <center>
 
-[![Mail 图标](https://cdn.jsdelivr.net/gh/puppet6/file-repository@main/mail.png)](mailto:Puppet@is-rbq.com)
+[![Mail 图标](https://cdn.jsdelivr.net/gh/puppet6/file-repository@main/mail.png)](mailto:Puppet@is-rbq.com)[![Telegram 图标](https://cdn.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)
 
 </center>
 
