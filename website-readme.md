@@ -1,3 +1,9 @@
+<center>
+
+[![Mail 图标](https://cdn.jsdelivr.net/gh/puppet6/file-repository@main/mail.png)](mailto:Puppet@is-rbq.com)
+
+</center>
+
 >人的优秀品质，在于仔细阅读。如果因为不认真而导致的尴尬，我很难保持耐心为你解答。  
 ——薅羊毛大学校长
 
