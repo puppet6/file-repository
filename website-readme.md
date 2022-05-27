@@ -1,3 +1,5 @@
+[![Email](https://s4.ax1x.com/2022/01/29/HSjUBD.png)](mailto:Puppet@is-rbq.com) [![Telegram](https://s4.ax1x.com/2022/01/29/HSvpgx.png)](https://twitter.com)
+
 >人的优秀品质，在于仔细阅读。如果因为不认真而导致的尴尬，我很难保持耐心为你解答。  
 ——薅羊毛大学校长
 
