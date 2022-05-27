@@ -1,4 +1,4 @@
-[![Email](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/arroba.png)](mailto:Puppet@is-rbq.com) [![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)
+[![Email](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/arroba.png)](mailto:Puppet@is-rbq.com)[![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)
 
 >人的优秀品质，在于仔细阅读。如果因为不认真而导致的尴尬，我很难保持耐心为你解答。  
 ——薅羊毛大学校长
