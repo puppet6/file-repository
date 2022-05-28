@@ -1,7 +1,18 @@
 <center>
 
-[![Mail](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/email.png)](mailto:Puppet@is-rbq.com)
-[![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)
+<div>
+<img src="https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/斯波友一.jpg" style=width:150px; height:150px;>
+</div>
+
+**<font size=5>木偶</font>**
+
+***
+
+[![EMail](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/email.png)](mailto:Puppet@is-rbq.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/github.png)](https://github.com/puppet6)
+
+___我如提线木偶一般，拥有着被别人支配的人生___
 
 </center>
 
