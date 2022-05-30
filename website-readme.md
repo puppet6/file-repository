@@ -12,8 +12,6 @@
 [![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/github.png)](https://github.com/puppet6)
 
-___我如提线木偶一般，拥有着被别人支配的人生___
-
 </center>
 
 >人的优秀品质，在于仔细阅读。如果因为不认真而导致的尴尬，我很难保持耐心为你解答。  
