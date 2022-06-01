@@ -1,4 +1,4 @@
-<center>
+<center> 
 
 <div>
 <img src="https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/斯波友一.jpg" style=width:150px; height:150px;>
@@ -19,15 +19,15 @@
 
 ## 功能区
 
-### **[教程](http://dd.ma/45h0s1Pe)**
+### **[教程](https://first-vise-159.notion.site/5b71c6552751479b8841c9cce3d93a6d?v=4b6b616efafc49119f3877a2057fbb58)**
 
-### **[投稿](https://www.kugutsu.ml/Guest%20Upload)**
+### **[投稿](https://www.kugutsu.ml/游客上传)**
 
-### **[捐助](http://dd.ma/WeAqj8yE)**
+### **[捐助](https://first-vise-159.notion.site/5a4bf95d05dd4b6791a6633df999a896)**
 
 ### **[Log](https://first-vise-159.notion.site/Log-a47ff5b33e214c049084578f620ad9fe)**
 
-### **[校验值](http://dd.ma/QHxP2G3J)**
+### **[校验值](https://first-vise-159.notion.site/4b35176f4faf44a0b354fad56358bd20?v=21caf0bb4f584ecb8af9983497dcc87b)**
 
 ***
 
@@ -37,19 +37,21 @@
 
 + 下载前请仔细查看文件名以确认到底运行在什么平台
 
++ 请勿再次使用链接为 `dd.ma` 的短链，运营已经跑路
+
 + 如果提示路径不存在，请返回到该目录的上一个目录，刷新后再次寻找
 
 + 如果不能直接搜索，电脑用户可以用 <kbd>Ctrl</kbd>+<kbd>F</kbd> 来搜索，部分手机浏览器可能会有搜索功能
+
++ 如果视频播放失败，可能是编码不支持，请下载到本地用播放器观看
 
 + **这里面有机翻游戏，具体是哪些不记得了**
 
 + **如果你想支持本站，那就多多访问多多宣传**
 
-+ 本站可能会有部分网赚短链，不过仍然纯天然无公害，放心食用
++ 电脑手机用户均可以使用[1DM+／IDM](http://ctfile.木偶.cf/d/33898030-46128233-cde0b0?p=2788)这类多线程下载器来提高下载速度，用奇奇怪怪的客户端的话出问题**概不负责**
 
-+ 电脑手机用户均可以使用[1DM+／IDM(密码2788)](http://dd.ma/rHIBtToE)这类多线程下载器来提高下载速度，用奇奇怪怪的客户端的话出问题**概不负责**
-
-+ 提供了文件的[SHA256值](http://dd.ma/QHxP2G3J)，可以校验文件完整性
++ 提供了文件的[SHA256值](https://first-vise-159.notion.site/4b35176f4faf44a0b354fad56358bd20?v=21caf0bb4f584ecb8af9983497dcc87b)，可以校验文件完整性
 
 ***
 
@@ -64,6 +66,8 @@
 + [SadnAp的小站](https://sadnapma.glitch.me)
 
 + [ACG盒子导航](https://acgbox.link/)
+
++ [Codeblind](https://coblind.cn)
 
 ***
 
