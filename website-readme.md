@@ -8,7 +8,7 @@
 
 ***
 
-[![EMail](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/email.png)](mailto:Puppet@is-rbq.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![EMail](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/email.png)](mailto:Puppet@is-rbq.ml)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/github.png)](https://github.com/puppet6)
 
