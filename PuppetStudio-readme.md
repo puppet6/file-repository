@@ -15,9 +15,11 @@
 </center>
 
 >人的优秀品质，在于仔细阅读。如果因为不认真而导致的尴尬，我很难保持耐心为你解答。  
-——薅羊毛大学校长
+——HYM大学校长
 
 ## 功能区
+
+### **[网址发布页](https://first-vise-159.notion.site/40ab173d2c84400fa947ebae2d478f61)**
 
 ### **[教程](https://first-vise-159.notion.site/5b71c6552751479b8841c9cce3d93a6d?v=4b6b616efafc49119f3877a2057fbb58)**
 
@@ -49,7 +51,7 @@
 
 + **如果你想支持本站，那就多多访问多多宣传**
 
-+ 电脑手机用户均可以使用[1DM+／IDM](http://ctfile.木偶.cf/d/33898030-46128233-cde0b0?p=2788)这类多线程下载器来提高下载速度，用奇奇怪怪的客户端的话出问题**概不负责**
++ 电脑手机用户均可以使用[1DM+／IDM(密码2788)](http://ctfile.木偶.cf/d/33898030-46128233-cde0b0?p=2788)这类多线程下载器来提高下载速度，用奇奇怪怪的客户端的话出问题**概不负责**
 
 + 提供了文件的[SHA256值](https://first-vise-159.notion.site/4b35176f4faf44a0b354fad56358bd20?v=21caf0bb4f584ecb8af9983497dcc87b)，可以校验文件完整性
 
@@ -57,17 +59,17 @@
 
 ## 友链
 
-+ 王某人のGalGame搬运工[频道](https://t.me/gal_porter)
++ [GalGame搬运工](https://t.me/gal_porter)
 
-+ 牛宝のkrkr游戏[频道](https://t.me/kirikiroid2)
-
-+ [小鳥遊 曉の幻想鄉](https://小鳥遊曉.cf)
++ [小鳥遊 曉の幻想鄉](https://t-satoru.top/)
 
 + [SadnAp的小站](https://sadnapma.glitch.me)
 
 + [ACG盒子导航](https://acgbox.link/)
 
 + [Codeblind](https://coblind.cn)
+
++ [neko家](http://www.rolling.ml)
 
 ***
 
