@@ -25,7 +25,7 @@
 
 ### **[投稿](https://www.kugutsu.ml/游客上传)**
 
-### **{Q&A}(https://first-vise-159.notion.site/78bdbfd6f99744399b1383726a6e489f?v=6b0ba1de225346d599fedbd2b175dd00)
+### **[Q&A](https://first-vise-159.notion.site/78bdbfd6f99744399b1383726a6e489f?v=6b0ba1de225346d599fedbd2b175dd00)**
 
 ### **[捐助](https://first-vise-159.notion.site/5a4bf95d05dd4b6791a6633df999a896)**
 
