@@ -8,9 +8,9 @@
 
 ***
 
-[![EMail](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/email.png)](mailto:Puppet@is-rbq.ml)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/telegram.png)](https://t.me/Puppet233_bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://fastly.jsdelivr.net/gh/puppet6/file-repository@main/github.png)](https://github.com/puppet6)
+[![Email](https://p0.meituan.net/csc/39b71b5dfe1bed6d7731064c4946a0df917.png)](mailto:Puppet@is-rbq.ml)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Telegram](https://p0.meituan.net/csc/5c9f06ff0036008b9084ac834ff755d61913.png)](https://t.me/Puppet233_bot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://p0.meituan.net/csc/1c5de4f2c596639442a45a7e0b0c3a5b2390.png)](https://github.com/puppet6)
 
 </center>
 
@@ -26,8 +26,6 @@
 ### **[投稿](https://www.kugutsu.ml/游客上传)**
 
 ### **[Q&A](https://first-vise-159.notion.site/78bdbfd6f99744399b1383726a6e489f?v=6b0ba1de225346d599fedbd2b175dd00)**
-
-### **[捐助](https://first-vise-159.notion.site/5a4bf95d05dd4b6791a6633df999a896)**
 
 ### **[Log](https://first-vise-159.notion.site/Log-a47ff5b33e214c049084578f620ad9fe)**
 
@@ -53,9 +51,15 @@
 
 + **如果你想支持本站，那就多多访问多多宣传**
 
-+ 电脑手机用户均可以使用[1DM+／IDM(密码2788)](http://ctfile.木偶.cf/d/33898030-46128233-cde0b0?p=2788)这类多线程下载器来提高下载速度，用奇奇怪怪的客户端的话出问题**概不负责**
++ 电脑手机用户均可以使用[1DM+／IDM](http://ctfile.木偶.cf/d/33898030-46128233-cde0b0?p=2788)这类多线程下载器来提高下载速度，用奇奇怪怪的客户端的话出问题**概不负责**
 
 + 提供了文件的[SHA256值](https://first-vise-159.notion.site/4b35176f4faf44a0b354fad56358bd20?v=21caf0bb4f584ecb8af9983497dcc87b)，可以校验文件完整性
+
+***
+
+## 捐助
+
+[![j8mqAK.jpg](https://s1.ax1x.com/2022/07/03/j8mqAK.jpg)](https://imgtu.com/i/j8mqAK)
 
 ***
 
@@ -72,6 +76,12 @@
 + [Codeblind](https://coblind.cn)
 
 + [neko家](http://www.rolling.ml)
+
++ [天命の小屋](tmby.ml)
+
++ [天哥图床](https://122688.xyz/)
+
++ [天哥发卡](https://776388.xyz/)
 
 ***
 
