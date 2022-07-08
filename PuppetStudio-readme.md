@@ -1,7 +1,7 @@
 <center> 
 
 <div>
-<img src="https://p0.meituan.net/csc/2a5ac5ad1c50da81231e01cd8ffb64b4170666.jpg" style=width:150px; height:150px;>
+<img src="https://p0.meituan.net/csc/f12583b28b04cd872005588929e73c6225138.png";>
 </div>
 
 **<font size=5>木偶</font>**
