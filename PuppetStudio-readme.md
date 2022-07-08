@@ -59,7 +59,7 @@
 
 ## 捐助
 
-![捐助.jpg](https://p1.meituan.net/csc/165b06423989ae6220b7d35ed2ec6845273334.jpg)
+![捐助.jpg](https://p0.meituan.net/csc/c8bacbfc82f13911f1f36c076220c5ac153413.png)
 
 ***
 
