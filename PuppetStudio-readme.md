@@ -87,7 +87,7 @@
 
 ## 推广
 
-+ [闪达加速器](https://www.cncnvpn.com/login#/register?code=333)
++ [闪达加速器(专属邀请码3个3)](https://www.cncnvpn.com/login#/register?code=333)
 
 + [PikPak(密码2788)](http://ctfile.木偶.cf/d/33898030-46128143-323c25?p=2788)
 
