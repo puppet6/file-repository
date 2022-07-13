@@ -21,7 +21,7 @@
 
 ### **[网址发布页](https://first-vise-159.notion.site/40ab173d2c84400fa947ebae2d478f61)**
 
-### **[教程](https://first-vise-159.notion.site/5b71c6552751479b8841c9cce3d93a6d?v=4b6b616efafc49119f3877a2057fbb58)**
+### **[教程](https://first-vise-159.notion.site/41b03ca0f912465ab2d3a069ec762859?v=91d23e550c6246c2836364ec684631bd)**
 
 ### **[投稿](https://www.kugutsu.ml/游客上传)**
 
